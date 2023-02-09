@@ -202,3 +202,6 @@ C:\Users\shash\temp\Assignment2\CircleTests\obj\Debug\net7.0\refint\CircleTests.
 C:\Users\shash\temp\Assignment2\CircleTests\obj\Debug\net7.0\CircleTests.pdb
 C:\Users\shash\temp\Assignment2\CircleTests\obj\Debug\net7.0\CircleTests.genruntimeconfig.cache
 C:\Users\shash\temp\Assignment2\CircleTests\obj\Debug\net7.0\ref\CircleTests.dll
+C:\Users\shash\temp\Assignment2\CircleTests\bin\Debug\net7.0\Assignment2_SM_MP.deps.json
+C:\Users\shash\temp\Assignment2\CircleTests\bin\Debug\net7.0\Assignment2_SM_MP.runtimeconfig.json
+C:\Users\shash\temp\Assignment2\CircleTests\bin\Debug\net7.0\Assignment2_SM_MP.exe

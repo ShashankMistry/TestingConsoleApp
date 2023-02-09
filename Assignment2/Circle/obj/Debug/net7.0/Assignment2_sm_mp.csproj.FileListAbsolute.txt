@@ -22,3 +22,6 @@ C:\Users\shash\temp\Assignment2\Circle\obj\Debug\net7.0\Assignment2_SM_MP.dll
 C:\Users\shash\temp\Assignment2\Circle\obj\Debug\net7.0\refint\Assignment2_SM_MP.dll
 C:\Users\shash\temp\Assignment2\Circle\obj\Debug\net7.0\Assignment2_SM_MP.pdb
 C:\Users\shash\temp\Assignment2\Circle\obj\Debug\net7.0\ref\Assignment2_SM_MP.dll
+C:\Users\shash\temp\Assignment2\Circle\bin\Debug\net7.0\Assignment2_SM_MP.exe
+C:\Users\shash\temp\Assignment2\Circle\bin\Debug\net7.0\Assignment2_SM_MP.runtimeconfig.json
+C:\Users\shash\temp\Assignment2\Circle\obj\Debug\net7.0\Assignment2_SM_MP.genruntimeconfig.cache
