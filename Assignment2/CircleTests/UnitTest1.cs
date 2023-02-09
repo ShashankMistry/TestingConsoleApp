@@ -96,7 +96,31 @@ public class Tests
     }
 
 
-   
+    //tests on area radius
+    [Test] public void TestGetArea_Radius()
+    {
+        Circle c = new Circle(5);
+        double expected = 78.54;
+        double actual = c.GetArea();
+        Assert.AreEqual(expected, actual, 0.01);
+    }
+
+    [Test] public void TestGetArea_Radius2()
+    {
+        Circle c = new Circle(10);
+        double expected = 314.16;
+        double actual = c.GetArea();
+        Assert.AreEqual(expected, actual, 0.01);
+    }
+
+    [Test] public void TestGetArea_Radius3()
+    {
+        Circle c = new Circle(15);
+        double expected = 706.86;
+        double actual = c.GetArea();
+        Assert.AreEqual(expected, actual, 0.01);
+    }
+
 
     [TearDown] public void Teardown()
     {
